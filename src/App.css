@@ -1,0 +1,16 @@
+.App {
+  margin: auto;
+  text-align: center;
+}
+
+
+.batman {
+  width: 600px;
+  height: 500px;
+}
+
+a {
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+}
